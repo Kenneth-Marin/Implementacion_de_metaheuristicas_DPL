@@ -2,8 +2,8 @@
 
 El repositorio incluye dos aplicaciones desarrolladas en DPL (Lenguaje nativo de PowerFactory Digsilent):
 
-- **Algoritmo genético (GA)** para la **ubicación óptima de condensadores**.  
-- **Búsqueda tabú (Tabu Search)** para la **selección óptima de conductores**.
+- **Algoritmo genético (AG)** para la **ubicación óptima de condensadores**.  
+- **Búsqueda tabú (BT)** para la **selección óptima de conductores**.
 
 Cada carpeta contiene:
 - Subcarpeta con los códigos fuente en formato `.pfd` (formato de proyecto importable en DIgSILENT PowerFactory).
