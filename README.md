@@ -6,8 +6,8 @@ El repositorio incluye dos aplicaciones desarrolladas en DPL (Lenguaje nativo de
 - **Búsqueda tabú (Tabu Search)** para la **selección óptima de conductores**.
 
 Cada carpeta contiene:
-- Los códigos fuente en formato `.pfd` (formato de proyecto importable en DIgSILENT PowerFactory).
-- Un **sistema de prueba** en el mismo formato para facilitar la reproducción de los resultados.
+- Subcarpeta con los códigos fuente en formato `.pfd` (formato de proyecto importable en DIgSILENT PowerFactory).
+- Subcaprpeta con un **sistema de prueba** en el mismo formato para facilitar la reproducción de los resultados.
 
 Las implementaciones fueron desarrolladas y verificadas en **DIgSILENT PowerFactory 2024**.  
 Por compatibilidad hacia adelante, los proyectos pueden importarse y ejecutarse en **versiones 2024 y posteriores** del software.
